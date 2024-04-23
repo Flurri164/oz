@@ -1,0 +1,33 @@
+.act_title {
+    padding: 90px 0;
+    text-align: center;
+    font-size: 60px;
+    font-family: var(--ff);
+}
+.act-block_imgg {
+    display: inline-block;
+    border: 1px rgb(240, 239, 239) solid;
+    padding: 15px;
+    border-radius: 50px;
+}
+.dott {
+    color: var(--cb);
+}
+.act-flex {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--ff);
+}
+.act-block_title {
+    font-size: 22px;
+    margin: 40px 0 20px;
+}
+.act-block-subtitle {
+    font-size: 16px;
+    color: var(--cs);
+}
+.act-block {
+    width: 350px;
+    text-align: center;
+    line-height: 1.3;
+}

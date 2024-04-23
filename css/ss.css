@@ -1,0 +1,19 @@
+.ss {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.ss-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.ss-flex img {
+    transition: .5;
+    width: 277px;
+    height: 122px;
+    border-radius: 10px;
+}
+.ss-flex img:hover {
+    outline: 2.5px solid var(--cb);
+    /* padding: 1px;
+    background-color: var(--cb); */
+}
