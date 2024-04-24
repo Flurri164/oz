@@ -1,6 +1,6 @@
-const TOKEN = "6929965896:AAEmq1EZa9WPneEzxhYivk-FxItwELAv9qU";
-const CHAT_ID = "-1002136358873";
-const URI_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`
+const TOKEN = "";
+const CHAT_ID = "";
+const URI_API = ``
 
 const modal = document.querySelector('.modal')
 const modal2 = document.querySelector('.modal2');
